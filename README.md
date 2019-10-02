@@ -1,4 +1,4 @@
 # coco
-## Contributors
+### Contributors
 
 - [Arkaprova Deb](github.com/arkaprovaz)
